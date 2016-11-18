@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thefunnyfunyan/Alfred_JS/issues"
   },
-  "homepage": "https://github.com/thefunnyfunyan/Alfred_JS#readme"
+  "homepage": "https://github.com/thefunnyfunyan/Alfred_JS#readme",
+  "devDependencies": {
+    "typescript": "^2.0.10"
+  }
 }
